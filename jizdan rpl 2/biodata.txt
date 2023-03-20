@@ -1,0 +1,6 @@
+Nama : Jizdan Ridwan Zhafir
+Kelas: XII RPL 2
+Judul aplikasi : Pengaduan Masyarakat
+
+Link github : https://github.com/jizdanRz/jizdanujikom
+Link Hosting : https://jrzpengaduan.000webhostapp.com/
